@@ -20,7 +20,7 @@
 </div>
 </div>
 <br><br><br><br><br><br>
-<p align="center">Иркутск 2020</p>
+<p align="center">Иркутск 2023</p>
 
 ---
 
