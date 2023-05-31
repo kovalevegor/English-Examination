@@ -101,7 +101,7 @@
     <td align="center" width="50%" height ="300">
       <img src="UE_Logo_Black.svg" alt="SVG Image" width="250" height ="250">
     </td>
-    <td width="300" height ="300">
+    <td align="center" width="300" height ="300">
       <img src="Visual_Studio_Icon_2019.svg" alt="SVG Image" width="225" height ="225">
     </td>
   </tr>
