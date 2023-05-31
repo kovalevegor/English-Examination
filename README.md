@@ -97,7 +97,7 @@
       -->
     </td>
     <td width="300" height ="300">
-      <img src="Visual_Studio_Icon_2019.svg" alt="SVG Image" width="250" height ="250">
+      <img src="Visual_Studio_Icon_2019.svg" alt="SVG Image" width="225" height ="225">
     <!--
       <pre>
         <code>
