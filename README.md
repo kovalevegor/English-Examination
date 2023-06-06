@@ -2,7 +2,9 @@
 
 <br>
 
-    Pandas AI is an additional Python library that enhances Pandas, the widely-used data analysis and manipulation tool, by incorporating generative artificial intelligence capabilities.
+    Представляя PandasAI: генеративную библиотеку языка питон
+
+> Pandas AI is an additional Python library that enhances Pandas, the widely-used data analysis and manipulation tool, by incorporating generative artificial intelligence capabilities.
 
 <br>
 
