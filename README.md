@@ -3,8 +3,11 @@
 <br>
 
     Представляя PandasAI: генеративную библиотеку языка питон
+
 <br>
+
     generative ['ʤen(ə)rətɪv] прил. 1) производящий; производительный; генерирующий, образующий, порождающий
+    
 <br>
 
 > Pandas AI is an additional Python library that enhances Pandas, the widely-used data analysis and manipulation tool, by incorporating generative artificial intelligence capabilities.
