@@ -133,7 +133,13 @@ pdai.plot_confusion_matrix(y_true, y_pred)
 
 By using functions like plot_confusion_matrix() and plot_roc_curve(), you can easily assess the performance of your models and make informed decisions about their effectiveness.
 
+<br>
+
+---
+
 ### <p align="center">Section 4: Frequently Asked Questions about PandasAI</p>
+
+<br>
 
 **Q: Is PandasAI compatible with existing Pandas code?**
 
