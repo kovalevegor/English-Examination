@@ -12,6 +12,7 @@ Today, I want to share an exciting development in the world of data analysis: **
 ---
 
 <br>
+<br>
 
 ### <p align="center">Section 1: Why PandasAI is the Future of Data Analysis</p>
 
@@ -33,7 +34,7 @@ With its advanced algorithms and automated features, PandasAI can handle massive
 
 ---
 
-<br>
+<br><br>
 
 ### <p align="center">Section 2: Getting Started with PandasAI</p>
 
@@ -80,6 +81,8 @@ This not only saves you time but also ensures that your analysis is based on com
 <br>
 
 ---
+
+<br><br>
 
 ### <p align="center"> Section 3: Exploring the Power of PandasAI</p>
 
@@ -137,6 +140,8 @@ By using functions like plot_confusion_matrix() and plot_roc_curve(), you can ea
 
 ---
 
+<br><br>
+
 ### <p align="center">Section 4: Frequently Asked Questions about PandasAI</p>
 
 <br>
@@ -178,6 +183,8 @@ So, don’t hesitate to give PandasAI a try! You’ll be amazed at how it can re
 <br>
 
 ---
+
+<br><br>
 
 ### <p align="center">Section 6: Real-Life Use Cases for PandasAI</p>
 
@@ -245,7 +252,7 @@ pdai.plot_bar_chart(x=['All Patients', 'Diabetes Patients'], y=[average_heart_ra
 
 ---
 
-<br>
+<br><br>
 
 ### <p align="center">Section 6: Comparing Pandas and PandasAI: A Feature Comparison</p>
 
@@ -271,7 +278,7 @@ While Pandas is an incredibly powerful and widely used library, PandasAI takes d
 
 ---
 
-<br>
+<br><br>
 
 ### <p align="center">Here are some additional code snippets that showcase how to use PandasAI for various data analysis tasks:</p>
 
@@ -374,7 +381,7 @@ These code snippets showcase just a few of the many features and capabilities of
 
 ---
 
-<br>
+<br><br>
 
 ### <p align="center">In Conclusion: Unleash the Power of Data with PandasAI</p>
 
@@ -387,6 +394,8 @@ So, what are you waiting for? Give PandasAI a try and see how it can transform y
 *Keep Calm and Analyze On with PandasAI!
 
 ---
+
+<br><br>
 
 I hope this article has been helpful to you. Thank you for taking the time to read it.
 
