@@ -1,4 +1,4 @@
-## <p align="center">🐼Introducing PandasAI: The Generative AI Python Library 🐼</p>
+# <p align="center">🐼Introducing PandasAI: The Generative AI Python Library🐼</p>
 
 <br>
 
@@ -38,8 +38,11 @@ With its advanced algorithms and automated features, PandasAI can handle massive
 
 <br>
 
-### <p align="center">Section 2: Getting Started with PandasAI</p>
+---
 
+<br>
+
+### <p align="center">Section 2: Getting Started with PandasAI</p>
 
 <br>
 
@@ -47,32 +50,47 @@ With its advanced algorithms and automated features, PandasAI can handle massive
 
 The first step is to install the library, which is as simple as running the following command in your Python environment:
 
+<br>
+
 ```bash
 pip install pandasai
 ```
 
 Once you have PandasAI installed, you can import it into your Python script or Jupyter Notebook using the following code:
 
+<br>
+
 ```python
 import pandasai as pdai
 ```
+
+<br>
 
 **To give you a taste of what PandasAI can do, let’s say you have a dataset with some missing values.**
 
 
 With traditional Pandas, you would need to spend time identifying and handling these missing values manually. However, with PandasAI, you can use the impute_missing_values() function to automatically fill in those gaps:
 
+<br>
+
 ```python
 data = pd.read_csv('dataset.csv')
 data_cleaned = pdai.impute_missing_values(data)
 ```
 
+<br>
+
 It’s as simple as that! PandasAI will intelligently analyze your data and fill in the missing values using appropriate techniques, such as mean imputation or regression.
 
 This not only saves you time but also ensures that your analysis is based on complete and reliable data.
 
+<br>
+
+---
 
 ### <p align="center"> Section 3: Exploring the Power of PandasAI</p>
+
+<br>
 
 Now that you have a basic understanding of how to integrate PandasAI into your data analysis workflow, let’s explore some of its powerful features and use cases.
 
@@ -80,10 +98,14 @@ Now that you have a basic understanding of how to integrate PandasAI into your d
 
 One of the most time-consuming aspects of data analysis is feature engineering. Extracting meaningful information from raw data and creating new features often requires extensive domain knowledge and manual effort. However, PandasAI simplifies this process by automatically generating new features based on the existing data.
 
+<br>
+
 ```python
 data = pd.read_csv('dataset.csv')
 data_features = pdai.generate_features(data)
 ```
+
+<br>
 
 PandasAI will analyze the patterns and relationships in your data and create new features that capture important information. This saves you from the tedious task of manually engineering features, allowing you to focus on the insights and analysis.
 
@@ -91,10 +113,14 @@ PandasAI will analyze the patterns and relationships in your data and create new
 
 Data visualization is a crucial part of any data analysis task, as it helps you understand the patterns and trends hidden within the data. With PandasAI, you can leverage its intelligent data visualization capabilities to create insightful and informative visualizations effortlessly.
 
+<br>
+
 ```python
 data = pd.read_csv('dataset.csv')
 pdai.plot_correlation_heatmap(data)
 ```
+
+<br>
 
 PandasAI provides a range of visualization functions that make it easy to create stunning plots and charts. From correlation heatmaps to scatter matrices, you can quickly gain valuable insights into your data by visualizing it with just a few lines of code.
 
@@ -102,11 +128,15 @@ PandasAI provides a range of visualization functions that make it easy to create
 
 When building machine learning models, evaluating their performance is a critical step. PandasAI simplifies this process by providing a suite of functions for model evaluation and comparison.
 
+<br>
+
 ```python
 y_true = [0, 1, 1, 0, 1]
 y_pred = [0, 1, 0, 0, 1]
 pdai.plot_confusion_matrix(y_true, y_pred)
 ```
+
+<br>
 
 By using functions like plot_confusion_matrix() and plot_roc_curve(), you can easily assess the performance of your models and make informed decisions about their effectiveness.
 
@@ -128,8 +158,12 @@ By using functions like plot_confusion_matrix() and plot_roc_curve(), you can ea
 
 >Currently, PandasAI doesn’t have native GPU acceleration. However, it takes advantage of multi-core processing and parallel computing techniques to speed up computations on modern CPUs.
 
+<br>
+
 <p align="center">.       .       .</p>
    
+<br>
+
 <p align="center">Section 5: Real-Life Use Cases for PandasAI</p>
 
 
